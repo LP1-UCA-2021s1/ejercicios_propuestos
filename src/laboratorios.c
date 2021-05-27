@@ -13,6 +13,6 @@
 #include "laboratorios.h"
 
 int main(void) {
-	ejercicio1();
+	parcial();
 	return EXIT_SUCCESS;
 }
